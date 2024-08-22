@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ReciclaPeru.vISTAS.registro"
+             NavigationPage.HasNavigationBar="False">
+    <ContentPage.Content>
+        <Grid>
+            <!-- Imagen de fondo que llena toda la pantalla -->
+            <Image Source="https://www.todofondos.net/wp-content/uploads/rain-wallpaper-android-2019-fondos-de-pantalla-de-android.-fondo-para-movil-de-lluvia.jpg"
+      
+       Aspect="Fill" 
+                   Opacity="0.3"/>
+            <StackLayout>
+                <Label Text="Create an account..."
+                       Margin="20,30,0,0"
+                       FontSize="20"
+                       Opacity="0.6"
+                       ></Label>
+                <Frame Margin="20" CornerRadius="10" Opacity="0.9">
+                    <StackLayout>
+                        <Grid ColumnDefinitions="100,*" 
+                          RowDefinitions="*,*,*,*,*,*,*">
+                        <Label Text="First Name" VerticalOptions="Center"></Label>
+                        <Entry Placeholder="First Name" HorizontalTextAlignment="Center" Opacity="0.6"
+                               Grid.Column="1"></Entry>
+                        <Label Grid.Row="1" Text="Last Name" VerticalOptions="Center"></Label>
+                        <Entry  Placeholder="Last Name" HorizontalTextAlignment="Center" Opacity="0.6"
+                                Grid.Column="1"
+                                Grid.Row="1"></Entry>
+                        <Label Grid.Row="2" Text="Email " VerticalOptions="Center"></Label>
+                        <Entry  Placeholder="Email" HorizontalTextAlignment="Center" Opacity="0.6"
+                                Grid.Column="1"
+                                Grid.Row="2"></Entry>
+                        <Label Grid.Row="3" Text="Password " VerticalOptions="Center"></Label>
+                        <Entry  Placeholder="Password" HorizontalTextAlignment="Center" Opacity="0.6"
+                                Grid.Column="1"
+                                Grid.Row="3"></Entry>
+                        <Label Grid.Row="4" Text="Password " VerticalOptions="Center"></Label>
+                        <Entry  Placeholder="Password" HorizontalTextAlignment="Center" Opacity="0.6"
+                                Grid.Column="1"
+                                Grid.Row="4"></Entry>
+                        <Label Grid.Row="5" Text="Country " VerticalOptions="Center"></Label>
+                        <Entry  Placeholder="Country" HorizontalTextAlignment="Center" Opacity="0.6"
+                                Grid.Column="1"
+                                Grid.Row="5"></Entry>
+                        <Label Grid.Row="6" Text="Birthday " VerticalOptions="Center"></Label>
+                        
+                        <DatePicker Opacity="0.6"
+                                Grid.Column="1"
+                                Grid.Row="6"
+                                    HorizontalOptions="FillAndExpand"
+                                    WidthRequest="100"></DatePicker>
+                        
+
+
+                    </Grid>
+                        <StackLayout Orientation="Horizontal">
+                            <CheckBox ></CheckBox>
+                            <Label Text="Aceptas los terminos y condiciones de registro en esta app movil"
+                                     Grid.Row="7" Grid.Column="1"
+                                     VerticalTextAlignment="Start"
+                                      HorizontalTextAlignment="Start"></Label>
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                            <CheckBox Grid.Row="7" HorizontalOptions="CenterAndExpand"></CheckBox>
+                            <Label Text="Terminos de identificacion y uso de mis datos para promociones"
+                                   VerticalOptions="Center" ></Label>
+                        </StackLayout>
+                        
+                        <StackLayout>
+                            <Button Text="Registrarse" BackgroundColor="#56CD4D" CornerRadius="10" Margin="30" TextColor="White"></Button>
+                        </StackLayout>
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,17 @@
+C:\Users\SOPORTE\Documents\Aplicaciones moviles\ReciclaPeru\ReciclaPeru\bin\Debug\netstandard2.0\ReciclaPeru.deps.json
+C:\Users\SOPORTE\Documents\Aplicaciones moviles\ReciclaPeru\ReciclaPeru\bin\Debug\netstandard2.0\ReciclaPeru.dll
+C:\Users\SOPORTE\Documents\Aplicaciones moviles\ReciclaPeru\ReciclaPeru\bin\Debug\netstandard2.0\ref\ReciclaPeru.dll
+C:\Users\SOPORTE\Documents\Aplicaciones moviles\ReciclaPeru\ReciclaPeru\bin\Debug\netstandard2.0\ReciclaPeru.pdb
+C:\Users\SOPORTE\Documents\Aplicaciones moviles\ReciclaPeru\ReciclaPeru\obj\Debug\netstandard2.0\ReciclaPeru.csproj.AssemblyReference.cache
+C:\Users\SOPORTE\Documents\Aplicaciones moviles\ReciclaPeru\ReciclaPeru\obj\Debug\netstandard2.0\ReciclaPeru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOPORTE\Documents\Aplicaciones moviles\ReciclaPeru\ReciclaPeru\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\SOPORTE\Documents\Aplicaciones moviles\ReciclaPeru\ReciclaPeru\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\SOPORTE\Documents\Aplicaciones moviles\ReciclaPeru\ReciclaPeru\obj\Debug\netstandard2.0\ReciclaPeru.AssemblyInfoInputs.cache
+C:\Users\SOPORTE\Documents\Aplicaciones moviles\ReciclaPeru\ReciclaPeru\obj\Debug\netstandard2.0\ReciclaPeru.AssemblyInfo.cs
+C:\Users\SOPORTE\Documents\Aplicaciones moviles\ReciclaPeru\ReciclaPeru\obj\Debug\netstandard2.0\ReciclaPeru.csproj.CoreCompileInputs.cache
+C:\Users\SOPORTE\Documents\Aplicaciones moviles\ReciclaPeru\ReciclaPeru\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\SOPORTE\Documents\Aplicaciones moviles\ReciclaPeru\ReciclaPeru\obj\Debug\netstandard2.0\ReciclaPeru.dll
+C:\Users\SOPORTE\Documents\Aplicaciones moviles\ReciclaPeru\ReciclaPeru\obj\Debug\netstandard2.0\refint\ReciclaPeru.dll
+C:\Users\SOPORTE\Documents\Aplicaciones moviles\ReciclaPeru\ReciclaPeru\obj\Debug\netstandard2.0\ReciclaPeru.pdb
+C:\Users\SOPORTE\Documents\Aplicaciones moviles\ReciclaPeru\ReciclaPeru\obj\Debug\netstandard2.0\vISTAS\login.xaml.g.cs
+C:\Users\SOPORTE\Documents\Aplicaciones moviles\ReciclaPeru\ReciclaPeru\obj\Debug\netstandard2.0\vISTAS\registro.xaml.g.cs

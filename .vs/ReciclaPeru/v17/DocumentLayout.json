@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SOPORTE\\Documents\\Aplicaciones moviles\\ReciclaPeru\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8668AB43-EFC3-4CE4-96EB-BE98CEEDDDA5}|ReciclaPeru\\ReciclaPeru.csproj|c:\\users\\soporte\\documents\\aplicaciones moviles\\reciclaperu\\reciclaperu\\vistas\\login.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{8668AB43-EFC3-4CE4-96EB-BE98CEEDDDA5}|ReciclaPeru\\ReciclaPeru.csproj|solutionrelative:reciclaperu\\vistas\\login.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8668AB43-EFC3-4CE4-96EB-BE98CEEDDDA5}|ReciclaPeru\\ReciclaPeru.csproj|c:\\users\\soporte\\documents\\aplicaciones moviles\\reciclaperu\\reciclaperu\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8668AB43-EFC3-4CE4-96EB-BE98CEEDDDA5}|ReciclaPeru\\ReciclaPeru.csproj|solutionrelative:reciclaperu\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8668AB43-EFC3-4CE4-96EB-BE98CEEDDDA5}|ReciclaPeru\\ReciclaPeru.csproj|c:\\users\\soporte\\documents\\aplicaciones moviles\\reciclaperu\\reciclaperu\\vistas\\registro.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{8668AB43-EFC3-4CE4-96EB-BE98CEEDDDA5}|ReciclaPeru\\ReciclaPeru.csproj|solutionrelative:reciclaperu\\vistas\\registro.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3BA095C-279A-4BBF-86B1-85F1DE750355}|ReciclaPeru.Android\\ReciclaPeru.Android.csproj|c:\\users\\soporte\\documents\\aplicaciones moviles\\reciclaperu\\reciclaperu.android\\resources\\drawable\\presentacion.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F3BA095C-279A-4BBF-86B1-85F1DE750355}|ReciclaPeru.Android\\ReciclaPeru.Android.csproj|solutionrelative:reciclaperu.android\\resources\\drawable\\presentacion.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8668AB43-EFC3-4CE4-96EB-BE98CEEDDDA5}|ReciclaPeru\\ReciclaPeru.csproj|c:\\users\\soporte\\documents\\aplicaciones moviles\\reciclaperu\\reciclaperu\\vistas\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8668AB43-EFC3-4CE4-96EB-BE98CEEDDDA5}|ReciclaPeru\\ReciclaPeru.csproj|solutionrelative:reciclaperu\\vistas\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3BA095C-279A-4BBF-86B1-85F1DE750355}|ReciclaPeru.Android\\ReciclaPeru.Android.csproj|c:\\users\\soporte\\documents\\aplicaciones moviles\\reciclaperu\\reciclaperu.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3BA095C-279A-4BBF-86B1-85F1DE750355}|ReciclaPeru.Android\\ReciclaPeru.Android.csproj|solutionrelative:reciclaperu.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3BA095C-279A-4BBF-86B1-85F1DE750355}|ReciclaPeru.Android\\ReciclaPeru.Android.csproj|c:\\users\\soporte\\documents\\aplicaciones moviles\\reciclaperu\\reciclaperu.android\\resources\\values\\styles.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F3BA095C-279A-4BBF-86B1-85F1DE750355}|ReciclaPeru.Android\\ReciclaPeru.Android.csproj|solutionrelative:reciclaperu.android\\resources\\values\\styles.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3BA095C-279A-4BBF-86B1-85F1DE750355}|ReciclaPeru.Android\\ReciclaPeru.Android.csproj|c:\\users\\soporte\\documents\\aplicaciones moviles\\reciclaperu\\reciclaperu.android\\bienvenido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3BA095C-279A-4BBF-86B1-85F1DE750355}|ReciclaPeru.Android\\ReciclaPeru.Android.csproj|solutionrelative:reciclaperu.android\\bienvenido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3BA095C-279A-4BBF-86B1-85F1DE750355}|ReciclaPeru.Android\\ReciclaPeru.Android.csproj|c:\\users\\soporte\\documents\\aplicaciones moviles\\reciclaperu\\reciclaperu.android\\resources\\values\\colors.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F3BA095C-279A-4BBF-86B1-85F1DE750355}|ReciclaPeru.Android\\ReciclaPeru.Android.csproj|solutionrelative:reciclaperu.android\\resources\\values\\colors.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SOPORTE\\Documents\\Aplicaciones moviles\\ReciclaPeru\\ReciclaPeru\\vISTAS\\login.xaml.cs",
+              "RelativeDocumentMoniker": "ReciclaPeru\\vISTAS\\login.xaml.cs",
+              "ToolTip": "C:\\Users\\SOPORTE\\Documents\\Aplicaciones moviles\\ReciclaPeru\\ReciclaPeru\\vISTAS\\login.xaml.cs",
+              "RelativeToolTip": "ReciclaPeru\\vISTAS\\login.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T22:32:26.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.xaml",
+              "DocumentMoniker": "C:\\Users\\SOPORTE\\Documents\\Aplicaciones moviles\\ReciclaPeru\\ReciclaPeru\\vISTAS\\login.xaml",
+              "RelativeDocumentMoniker": "ReciclaPeru\\vISTAS\\login.xaml",
+              "ToolTip": "C:\\Users\\SOPORTE\\Documents\\Aplicaciones moviles\\ReciclaPeru\\ReciclaPeru\\vISTAS\\login.xaml",
+              "RelativeToolTip": "ReciclaPeru\\vISTAS\\login.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-22T19:34:18.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "registro.xaml",
+              "DocumentMoniker": "C:\\Users\\SOPORTE\\Documents\\Aplicaciones moviles\\ReciclaPeru\\ReciclaPeru\\vISTAS\\registro.xaml",
+              "RelativeDocumentMoniker": "ReciclaPeru\\vISTAS\\registro.xaml",
+              "ToolTip": "C:\\Users\\SOPORTE\\Documents\\Aplicaciones moviles\\ReciclaPeru\\ReciclaPeru\\vISTAS\\registro.xaml",
+              "RelativeToolTip": "ReciclaPeru\\vISTAS\\registro.xaml",
+              "ViewState": "AQIAACoAAAAAAAAAAADwvzQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-22T21:21:34.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "presentacion.xml",
+              "DocumentMoniker": "C:\\Users\\SOPORTE\\Documents\\Aplicaciones moviles\\ReciclaPeru\\ReciclaPeru.Android\\Resources\\drawable\\presentacion.xml",
+              "RelativeDocumentMoniker": "ReciclaPeru.Android\\Resources\\drawable\\presentacion.xml",
+              "ToolTip": "C:\\Users\\SOPORTE\\Documents\\Aplicaciones moviles\\ReciclaPeru\\ReciclaPeru.Android\\Resources\\drawable\\presentacion.xml",
+              "RelativeToolTip": "ReciclaPeru.Android\\Resources\\drawable\\presentacion.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-08-22T22:16:33.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\SOPORTE\\Documents\\Aplicaciones moviles\\ReciclaPeru\\ReciclaPeru.Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "ReciclaPeru.Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\SOPORTE\\Documents\\Aplicaciones moviles\\ReciclaPeru\\ReciclaPeru.Android\\MainActivity.cs",
+              "RelativeToolTip": "ReciclaPeru.Android\\MainActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T22:27:04.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "colors.xml",
+              "DocumentMoniker": "C:\\Users\\SOPORTE\\Documents\\Aplicaciones moviles\\ReciclaPeru\\ReciclaPeru.Android\\Resources\\values\\colors.xml",
+              "RelativeDocumentMoniker": "ReciclaPeru.Android\\Resources\\values\\colors.xml",
+              "ToolTip": "C:\\Users\\SOPORTE\\Documents\\Aplicaciones moviles\\ReciclaPeru\\ReciclaPeru.Android\\Resources\\values\\colors.xml",
+              "RelativeToolTip": "ReciclaPeru.Android\\Resources\\values\\colors.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-08-22T21:04:23.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bienvenido.cs",
+              "DocumentMoniker": "C:\\Users\\SOPORTE\\Documents\\Aplicaciones moviles\\ReciclaPeru\\ReciclaPeru.Android\\Bienvenido.cs",
+              "RelativeDocumentMoniker": "ReciclaPeru.Android\\Bienvenido.cs",
+              "ToolTip": "C:\\Users\\SOPORTE\\Documents\\Aplicaciones moviles\\ReciclaPeru\\ReciclaPeru.Android\\Bienvenido.cs",
+              "RelativeToolTip": "ReciclaPeru.Android\\Bienvenido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T21:06:33.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SOPORTE\\Documents\\Aplicaciones moviles\\ReciclaPeru\\ReciclaPeru\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ReciclaPeru\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\SOPORTE\\Documents\\Aplicaciones moviles\\ReciclaPeru\\ReciclaPeru\\App.xaml.cs",
+              "RelativeToolTip": "ReciclaPeru\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T21:26:31.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "styles.xml",
+              "DocumentMoniker": "C:\\Users\\SOPORTE\\Documents\\Aplicaciones moviles\\ReciclaPeru\\ReciclaPeru.Android\\Resources\\values\\styles.xml",
+              "RelativeDocumentMoniker": "ReciclaPeru.Android\\Resources\\values\\styles.xml",
+              "ToolTip": "C:\\Users\\SOPORTE\\Documents\\Aplicaciones moviles\\ReciclaPeru\\ReciclaPeru.Android\\Resources\\values\\styles.xml",
+              "RelativeToolTip": "ReciclaPeru.Android\\Resources\\values\\styles.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-08-22T22:14:01.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

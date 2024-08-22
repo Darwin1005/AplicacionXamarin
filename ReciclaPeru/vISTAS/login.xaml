@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ReciclaPeru.vISTAS.login"
+             NavigationPage.HasNavigationBar="False">
+    <Grid 
+          >
+        <!-- Imagen de fondo que llena toda la pantalla -->
+        <Image Source="https://img.freepik.com/vector-gratis/marco-fondo-azul-fluido_53876-99019.jpg"
+          
+           
+           Aspect="Fill" />
+
+        <!-- Contenedor principal para el contenido destacado -->
+        
+            <StackLayout HorizontalOptions="CenterAndExpand"
+                         VerticalOptions="CenterAndExpand">
+            <Image Source="https://www.vhv.rs/dpng/d/119-1191009_bienvenidos-png-transparent-png.png"
+                   Margin="0,0,0,20"
+                   HorizontalOptions="Center" />
+                <Entry 
+                Margin="70,0,70,0"
+                x:Name="email"
+                Placeholder="Email" />
+                <Entry 
+                Margin="70,0,70,30"
+                x:Name="password"
+                Placeholder="Password"
+                IsPassword="True" />
+                <Button Margin="70,0,70,0"
+                x:Name="ingresar"
+                BackgroundColor="#6BF96A"
+                Text="Ingresar"
+                CornerRadius="15"
+                Clicked="ingresar_Clicked" />
+                <Button 
+                Margin="70,0,70,0"
+                x:Name="registrarse"
+                BackgroundColor="Red"
+                Text="Registrarse"
+                CornerRadius="15"
+                Clicked="registrarse_Clicked" />
+                <Grid ColumnDefinitions="300,*">
+                    <Label Text="                    Olvidaste tu Contraseña? recuperala" 
+                        />
+                    <Label Grid.Column="1" Text="aqui" TextColor="Red"
+                       VerticalOptions="Center" />
+                </Grid>
+            </StackLayout>
+        
+    </Grid>
+</ContentPage>
