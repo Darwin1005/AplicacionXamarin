@@ -3,50 +3,81 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ReciclaPeru.vISTAS.login"
              NavigationPage.HasNavigationBar="False">
-    <Grid 
-          >
-        <!-- Imagen de fondo que llena toda la pantalla -->
-        <Image Source="https://img.freepik.com/vector-gratis/marco-fondo-azul-fluido_53876-99019.jpg"
-          
-           
+    <Grid>
+    <!-- Imagen de fondo -->
+    <Image Source="https://img.freepik.com/vector-gratis/marco-fondo-azul-fluido_53876-99019.jpg"
            Aspect="Fill" />
 
-        <!-- Contenedor principal para el contenido destacado -->
-        
-            <StackLayout HorizontalOptions="CenterAndExpand"
-                         VerticalOptions="CenterAndExpand">
-            <Image Source="https://www.vhv.rs/dpng/d/119-1191009_bienvenidos-png-transparent-png.png"
-                   Margin="0,0,0,20"
-                   HorizontalOptions="Center" />
-                <Entry 
-                Margin="70,0,70,0"
-                x:Name="email"
-                Placeholder="Email" />
-                <Entry 
-                Margin="70,0,70,30"
-                x:Name="password"
-                Placeholder="Password"
-                IsPassword="True" />
-                <Button Margin="70,0,70,0"
-                x:Name="ingresar"
-                BackgroundColor="#6BF96A"
-                Text="Ingresar"
-                CornerRadius="15"
-                Clicked="ingresar_Clicked" />
-                <Button 
-                Margin="70,0,70,0"
-                x:Name="registrarse"
-                BackgroundColor="Red"
-                Text="Registrarse"
-                CornerRadius="15"
-                Clicked="registrarse_Clicked" />
-                <Grid ColumnDefinitions="300,*">
-                    <Label Text="                    Olvidaste tu Contraseña? recuperala" 
-                        />
-                    <Label Grid.Column="1" Text="aqui" TextColor="Red"
-                       VerticalOptions="Center" />
-                </Grid>
-            </StackLayout>
-        
-    </Grid>
+    <!-- Contenedor principal -->
+    <StackLayout HorizontalOptions="CenterAndExpand"
+                 VerticalOptions="CenterAndExpand"
+                 Padding="20"
+                 Spacing="20">
+
+        <!-- Imagen de iconos de usuario -->
+        <StackLayout Orientation="Horizontal" 
+                     HorizontalOptions="Center"
+                     Spacing="20">
+            <Image Source="https://previews.123rf.com/images/stockgiu/stockgiu1802/stockgiu180208890/95899937-mujer-de-avatar-de-color-de-l%C3%ADnea-con-blusa-sin-rostro-y-elegante-ilustraci%C3%B3n-vectorial.jpg" 
+                WidthRequest="60"
+                   HeightRequest="60" />
+            <Image Source="https://png.pngtree.com/png-clipart/20190516/original/pngtree-users-vector-icon-png-image_3725294.jpg" 
+                    WidthRequest="60"
+                   HeightRequest="60" />
+        </StackLayout>
+
+        <!-- Campo de usuario -->
+        <Entry 
+            Placeholder="Ingresar usuario"
+            Margin="0,10,0,0"
+            HorizontalOptions="FillAndExpand" />
+
+        <!-- Campo de contraseña -->
+        <Entry 
+            Placeholder="Ingresar password"
+            IsPassword="True"
+            HorizontalOptions="FillAndExpand" />
+
+        <!-- Mostrar contraseña -->
+        <StackLayout Orientation="Horizontal" 
+                     HorizontalOptions="FillAndExpand">
+            <CheckBox />
+            <Label Text="Mostrar contraseña"
+                   VerticalOptions="Center"
+                   Margin="5,0,0,0"/>
+        </StackLayout>
+
+        <!-- Selección de rol -->
+        <Picker Title="Rol"
+                HorizontalOptions="FillAndExpand">
+            <!-- Añade aquí los roles -->
+        </Picker>
+
+        <!-- Botones de ingresar y cancelar -->
+        <StackLayout Orientation="Horizontal" 
+                     HorizontalOptions="FillAndExpand"
+                     Spacing="10">
+            <Button Text="Ingresar"
+                    HorizontalOptions="FillAndExpand"
+                    BackgroundColor="#6BF96A"
+                    TextColor="White" />
+            <Button Text="Registrarme"
+                    HorizontalOptions="FillAndExpand"
+                    BackgroundColor="red"
+                    TextColor="White" />
+        </StackLayout>
+
+        <!-- Enlaces de registro y recuperación -->
+        <StackLayout Orientation="Horizontal"
+                     HorizontalOptions="FillAndExpand"
+                     Spacing="5">
+            <Label Text="Registrar / "
+                   VerticalOptions="Center" />
+            <Label Text="Recuperar contraseña"
+                   TextColor="Blue"
+                   VerticalOptions="Center" />
+        </StackLayout>
+
+    </StackLayout>
+</Grid>
 </ContentPage>
